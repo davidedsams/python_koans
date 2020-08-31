@@ -6,4 +6,5 @@
 # {0: .{1}f}
 
 
-print(ord('b'))
+# print(ord('b'))
+
